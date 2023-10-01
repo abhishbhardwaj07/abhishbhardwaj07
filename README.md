@@ -1,4 +1,4 @@
-<a href="https://discord.gg/pochita"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<a href="https://discord.gg/pochita"><img src=["https://i.imgur.com/z1oWSiy.png"](https://github.com/abhishbhardwaj07/abhishbhardwaj07/blob/main/banner.jpg) width="100%" height="auto"/></a>
 <p align="center">
 </p>
 
