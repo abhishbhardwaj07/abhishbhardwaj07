@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">👋 Hello, fellow developers and tech enthusiasts! I'm Abhishek Bhardwaj, a university student pursuing a Bachelor of Technology (B.Tech) degree. Hailing from Greater Noida, I'm on an exciting journey to explore the ever-evolving world of technology and software engineering.</h3>
+<h3 align="center">👋 Hello, fellow developers and tech enthusiasts! I'm Abhishek Bhardwaj, a university student pursuing a Bachelor of Technology (B.Tech) degree. I'm on an exciting journey to explore the ever-evolving world of technology and software engineering.</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
